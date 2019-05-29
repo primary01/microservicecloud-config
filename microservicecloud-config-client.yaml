@@ -6,7 +6,7 @@
 ---
 
 eureka:
- client：
+client：
    service-url:
       defaultZone: http://eureka-dev.com:7001/eureka/
       
@@ -20,7 +20,7 @@ spring:
 ---
 
 eureka:
- client：
+client：
    service-url:
       defaultZone: http://eureka-test.com:7001/eureka/
       
